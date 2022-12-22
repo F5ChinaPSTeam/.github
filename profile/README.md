@@ -6,4 +6,4 @@ F5专业服务可以为客户提供完整的，周期性的服务支持解决方
 
 我们的服务可以随产品一起购买或是单独下单，可以在全球范围内提供服务，并能现场或远程的方式交付，最大程度的满足您的需求。
 
-![image](https://github.com/F5ChinaPSTeam/.github/blob/main/profile/Picture2.png)
+![image]([https://github.com/F5ChinaPSTeam/.github/blob/main/profile/Picture2.png](https://github.com/F5ChinaPSTeam/.github/blob/main/profile/Picture2.jpg))
